@@ -1,0 +1,50 @@
+﻿{
+  "columnseperator": ",",
+  "rowseperator": "\r\n",
+  "hasheaderrow": true,
+  "columns": {
+    "1": {
+      "name": "id",
+      "isrequired": true,
+      "isinterger": true
+    },
+    "2": {
+      "name": "name",
+      "isrequired": true,
+      "stringcase": "upper"
+    },
+    "3": {
+      "name": "height",
+      "isinterger": true,
+      "numberrange": {
+        "from": 100,
+        "to": 200
+      }
+    },
+    "4": {
+      "name": "weight",
+      "isnumber": true,
+      "numberrange": {
+        "from": 50.5,
+        "to": 100.5
+      }
+    },
+    "5": {
+      "name": "isoverweight",
+      "isboolean": true
+    },
+    "6": {
+      "name": "dob",
+      "dateformat": "dd/mm/yyyy"
+    },
+    "7": {
+      "name": "dob",
+      "stringcase": "lower",
+      "validvalues": [
+        "developer",
+        "manager",
+        "analyst"
+      ]
+    }
+  }
+}

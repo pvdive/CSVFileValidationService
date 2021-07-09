@@ -1,0 +1,9 @@
+ID,NAME,HEIGHT,WEIGHT,IsOverWeight,DOB,Role
+1,PRADIP,176,75.5,false,29-04-1989,developer
+2,MONA,166,55.5,trueee,29/04/1992,manager
+3,Jack,168,55.5,false,29/04/1992,manager
+4,MAC,166,155.5,true,29/04/1992,developer
+,POP,166,65,false,29/04/1992,manager
+6,POP,170.5,70.2,false,29/04/1992,manager
+7,POP,166,85.3,false,29/04/1992,ceo
+8,POP,16,5five,false,29/04/1992,manager

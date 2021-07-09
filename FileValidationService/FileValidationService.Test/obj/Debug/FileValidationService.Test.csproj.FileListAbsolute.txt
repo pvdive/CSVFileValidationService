@@ -1,0 +1,36 @@
+D:\assignment\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\assignment\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\assignment\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\assignment\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\FileValidationService.Test.dll
+D:\assignment\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\FileValidationService.Test.pdb
+D:\assignment\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\assignment\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\assignment\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\ValidationLibrary.dll
+D:\assignment\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\Newtonsoft.Json.dll
+D:\assignment\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\ValidationLibrary.pdb
+D:\assignment\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\assignment\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\assignment\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\Newtonsoft.Json.xml
+D:\assignment\CLSA\FileValidationService\FileValidationService.Test\obj\Debug\FileValidationService.Test.csprojAssemblyReference.cache
+D:\assignment\CLSA\FileValidationService\FileValidationService.Test\obj\Debug\FileValidationService.Test.csproj.CoreCompileInputs.cache
+D:\assignment\CLSA\FileValidationService\FileValidationService.Test\obj\Debug\FileValidationService.Test.csproj.CopyComplete
+D:\assignment\CLSA\FileValidationService\FileValidationService.Test\obj\Debug\FileValidationService.Test.dll
+D:\assignment\CLSA\FileValidationService\FileValidationService.Test\obj\Debug\FileValidationService.Test.pdb
+E:\Practice\CLSA Final\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Practice\CLSA Final\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Practice\CLSA Final\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Practice\CLSA Final\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\FileValidationService.Test.dll
+E:\Practice\CLSA Final\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\FileValidationService.Test.pdb
+E:\Practice\CLSA Final\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Practice\CLSA Final\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Practice\CLSA Final\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\ValidationLibrary.dll
+E:\Practice\CLSA Final\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\Newtonsoft.Json.dll
+E:\Practice\CLSA Final\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\ValidationLibrary.pdb
+E:\Practice\CLSA Final\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Practice\CLSA Final\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Practice\CLSA Final\CLSA\FileValidationService\FileValidationService.Test\bin\Debug\Newtonsoft.Json.xml
+E:\Practice\CLSA Final\CLSA\FileValidationService\FileValidationService.Test\obj\Debug\FileValidationService.Test.csprojAssemblyReference.cache
+E:\Practice\CLSA Final\CLSA\FileValidationService\FileValidationService.Test\obj\Debug\FileValidationService.Test.csproj.CoreCompileInputs.cache
+E:\Practice\CLSA Final\CLSA\FileValidationService\FileValidationService.Test\obj\Debug\FileValidationService.Test.csproj.CopyComplete
+E:\Practice\CLSA Final\CLSA\FileValidationService\FileValidationService.Test\obj\Debug\FileValidationService.Test.dll
+E:\Practice\CLSA Final\CLSA\FileValidationService\FileValidationService.Test\obj\Debug\FileValidationService.Test.pdb

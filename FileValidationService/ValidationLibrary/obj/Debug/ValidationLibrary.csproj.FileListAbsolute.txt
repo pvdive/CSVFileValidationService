@@ -1,0 +1,28 @@
+E:\Practice\CLSA Assignment\ValidationLibrary\obj\Debug\ValidationLibrary.csproj.CoreCompileInputs.cache
+D:\assignment\ValidationLibrary\obj\Debug\ValidationLibrary.csproj.CoreCompileInputs.cache
+D:\assignment\ValidationLibrary\bin\Debug\ValidationLibrary.dll
+D:\assignment\ValidationLibrary\bin\Debug\ValidationLibrary.pdb
+D:\assignment\ValidationLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\assignment\ValidationLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\assignment\ValidationLibrary\obj\Debug\ValidationLibrary.csproj.CopyComplete
+D:\assignment\ValidationLibrary\obj\Debug\ValidationLibrary.dll
+D:\assignment\ValidationLibrary\obj\Debug\ValidationLibrary.pdb
+D:\assignment\ValidationLibrary\obj\Debug\ValidationLibrary.csprojAssemblyReference.cache
+D:\assignment\CLSA\FileValidationService\ValidationLibrary\bin\Debug\ValidationLibrary.dll
+D:\assignment\CLSA\FileValidationService\ValidationLibrary\bin\Debug\ValidationLibrary.pdb
+D:\assignment\CLSA\FileValidationService\ValidationLibrary\obj\Debug\ValidationLibrary.csproj.CoreCompileInputs.cache
+D:\assignment\CLSA\FileValidationService\ValidationLibrary\obj\Debug\ValidationLibrary.csproj.CopyComplete
+D:\assignment\CLSA\FileValidationService\ValidationLibrary\obj\Debug\ValidationLibrary.dll
+D:\assignment\CLSA\FileValidationService\ValidationLibrary\obj\Debug\ValidationLibrary.pdb
+D:\assignment\CLSA\FileValidationService\ValidationLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\assignment\CLSA\FileValidationService\ValidationLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\assignment\CLSA\FileValidationService\ValidationLibrary\obj\Debug\ValidationLibrary.csprojAssemblyReference.cache
+E:\Practice\CLSA Final\CLSA\FileValidationService\ValidationLibrary\bin\Debug\ValidationLibrary.dll
+E:\Practice\CLSA Final\CLSA\FileValidationService\ValidationLibrary\bin\Debug\ValidationLibrary.pdb
+E:\Practice\CLSA Final\CLSA\FileValidationService\ValidationLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\Practice\CLSA Final\CLSA\FileValidationService\ValidationLibrary\bin\Debug\Newtonsoft.Json.xml
+E:\Practice\CLSA Final\CLSA\FileValidationService\ValidationLibrary\obj\Debug\ValidationLibrary.csprojAssemblyReference.cache
+E:\Practice\CLSA Final\CLSA\FileValidationService\ValidationLibrary\obj\Debug\ValidationLibrary.csproj.CoreCompileInputs.cache
+E:\Practice\CLSA Final\CLSA\FileValidationService\ValidationLibrary\obj\Debug\ValidationLibrary.csproj.CopyComplete
+E:\Practice\CLSA Final\CLSA\FileValidationService\ValidationLibrary\obj\Debug\ValidationLibrary.dll
+E:\Practice\CLSA Final\CLSA\FileValidationService\ValidationLibrary\obj\Debug\ValidationLibrary.pdb
